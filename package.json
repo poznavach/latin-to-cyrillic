@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bifot/latin-to-cyrillic.git"
+    "url": "git+https://github.com/poznavach/latin-to-cyrillic.git"
   },
   "keywords": [
     "translit",
@@ -24,7 +24,7 @@
   "author": "Mikhail Semin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bifot/latin-to-cyrillic/issues"
+    "url": "https://github.com/poznavach/latin-to-cyrillic/issues"
   },
-  "homepage": "https://github.com/bifot/latin-to-cyrillic#readme"
+  "homepage": "https://github.com/poznavach/latin-to-cyrillic#readme"
 }
