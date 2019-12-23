@@ -26,5 +26,7 @@
   "bugs": {
     "url": "https://github.com/poznavach/latin-to-cyrillic/issues"
   },
-  "homepage": "https://github.com/poznavach/latin-to-cyrillic#readme"
+  "homepage": "https://github.com/poznavach/latin-to-cyrillic#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
+
